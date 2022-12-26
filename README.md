@@ -1,5 +1,8 @@
 # 42_inception
 
+![Demo GIF](https://github.com/karisti/42_inception/blob/master/demo1.jpg?raw=true)
+
+
 ## Description
 This project consists in having you set up a small infrastructure composed of three different services running in different Docker containers, connected between them by a docker-network. The three services are an nginx server, WordPress with php-fpm and an MariaDB database. Also, it will have two volumes for the WorPress database and the WordPress website files, making this data persistent on the host. In case of crash, the containers are restarted automatically.
 
