@@ -1,6 +1,6 @@
 # 42_inception
 
-![Demo GIF](https://github.com/karisti/42_inception/blob/master/demo1.jpg?raw=true)
+![Demo image](https://github.com/karisti/42_inception/blob/master/demo1.jpg?raw=true)
 
 
 ## Description
